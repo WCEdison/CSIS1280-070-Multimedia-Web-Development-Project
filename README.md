@@ -2,6 +2,8 @@
 CSIS1280-070 Multimedia Web Development Project - Website
 CSIS 1280 Final Project Guideline (Winter 2023)
 
+Basic Design Chart
+https://drive.google.com/file/d/1dVZmiNa9GYQvAO0SMBgJfl59U7UkGyYV/view?usp=sharing
 
 1.	Project Introduction
 The Project is a project that should cumulatively cover all the topics in the course, it is to model a small real-world website.
