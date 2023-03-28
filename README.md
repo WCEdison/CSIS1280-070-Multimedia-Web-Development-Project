@@ -2,6 +2,25 @@
 CSIS1280-070 Multimedia Web Development Project - Website
 CSIS 1280 Final Project Guideline (Winter 2023)
 
+Job distribution 
+1. HTML core CSS (home pages - where we say welcome) - Oyuki
+2. HTML CSS (content pages - where we explain the hobbies) -Edi
+3. HTML Form and Javascript - Alessandro
+4. Content - Text, Images and videos -Helen
+5. Report - Marcus
+
+To do:
+1. [Marcus] finalize design by providing screenshot as example (27 Mar (Mon))
+2. [Oyuki] first draft of homepage (29 Mar (Wed))
+3. [Edi] first draft of content page (30 Mar (Thu))
+4. [Alex] first draft of html forms (missing javascript) (30 Mar (Thu))
+5. [Helen] i will be creating texts, images and videos  for the html with links (29 Mar Wed)
+6. [Marcus] Q/A (open suggestions)
+7. [Marcus] Make design into first draft of report (31 Mar (Fri))
+...
+Final -1 Upload of assignment (7 Apr Fri)
+Final Deadline (8 Apr (Sat))
+
 Basic Design Chart
 https://drive.google.com/file/d/1dVZmiNa9GYQvAO0SMBgJfl59U7UkGyYV/view?usp=sharing
 
