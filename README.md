@@ -12,7 +12,7 @@ Job distribution
 To do:
 1. [Marcus] finalize design by providing screenshot as example (27 Mar (Mon) - 28 Mar (Tue))
 2. [Oyuki] first draft of homepage (29 Mar (Wed))
-3. [Edi] first draft of content page (30 Mar (Thu))
+3. *[Edi] first draft of content page (31 Mar (Fri)) (UPDATED)
 4. [Alex] first draft of html forms (missing javascript) (30 Mar (Thu))
 5. [Helen] i will be creating texts, images and videos  for the html with links (29 Mar Wed)
 6. [Marcus] Q/A (open suggestions)
