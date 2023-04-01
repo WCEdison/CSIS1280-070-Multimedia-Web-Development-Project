@@ -38,7 +38,8 @@ body {
 	/* min-height: 110%; */
 	/* padding-bottom: 30px; */
 	box-sizing: border-box;
-	background-color: rgba(243, 243, 220, 0.7);
+	background-color: rgba(243, 243, 220, 0.5);
+	text-shadow: 1px 1px 2px black;
 	/* top: -10px; 
 	 bottom: -30px; 
 	 left: -10px;
@@ -86,11 +87,13 @@ header nav ul li {
 	text-align: center;
 }
 
-a {
+body header a {
 	color: rgb(236, 235, 240);
 }
-a.body{
-	color: black;
+
+body a {
+	color: brown;
+	text-shadow: 1px 1px 2px black;
 }
 
 footer {
