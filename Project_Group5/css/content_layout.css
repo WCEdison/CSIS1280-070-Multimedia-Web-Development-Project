@@ -17,6 +17,10 @@ body {
 	font-size: 26px;
 }
 
+img {
+    width: 720px; /* you can use % */
+    height: auto;
+}
 /* body::before {
 	content: "";
 	position: absolute;
