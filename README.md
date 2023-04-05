@@ -16,7 +16,7 @@ To do:
 4. [Alex] first draft of html forms (missing javascript) (31 Mar (Thu)) (Updated)
 5. [Helen] i will be creating texts, images and videos  for the html with links (29 Mar Wed)
 6. [Marcus] Q/A (open suggestions)
-7. [Marcus] Make design into first draft of report (1 April (Sat)) (Updated)
+7. [Marcus] Make design into first draft of report (05 April (Sat)) (Updated)
 ...
 Final -1 Upload of assignment (7 Apr Fri)
 Final Deadline (8 Apr (Sat))
