@@ -24,15 +24,15 @@
     </header>
     <div class="wrapper">
         <h1>Find the Hobby that matches you</h1>
-        <form action="processQuizz()" id="quizzForm">
+        <form action="javascript:processQuizz()" id="quizzForm">
             <label for="name">Name:</label><br>
-            <input type="text" id="name" name="name"><br><br>
+            <input type="text" id="name" name="name" required><br><br>
 
             <label for="studentId">Student Id:</label><br>
-            <input type="text" id="studentId" name="studentId"><br><br>
+            <input type="text" id="studentId" name="studentId" required><br><br>
 
             <label for="kind">What kind of activity do you prefer?</label><br>
-            <input type="radio" id="indoors" name="kind" value="indoors">Indoors
+            <input type="radio" id="indoors" name="kind" value="indoors" checked>Indoors
             <input type="radio" id="outdoors" name="kind" value="outdoors">Outdoors
             <input type="radio" id="both" name="kind" value="both">Both<br><br>
 
@@ -42,7 +42,7 @@
                 <option value="highDexterity">High</option>
             </select><br><br>
 
-            <button id="submit-button" onclick="processQuizz()">Submit</button>
+            <button id="submit-button">Submit</button>
           </form>
 
         <div id="response">

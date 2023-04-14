@@ -17,7 +17,7 @@ const hobbies = [hiking, travelling, painting, reading, videograph];
 function resetQuizz() {
     document.querySelector("#name").value = "";
     document.querySelector("#studentId").value = "";
-    document.querySelector('#indoors'). checked = false;
+    document.querySelector('#indoors'). checked = true;
     document.querySelector('#outdoors').checked = false;
     document.querySelector('#both').checked = false;
     document.querySelector('#manual').selectedIndex=0;
@@ -38,9 +38,6 @@ function disableSubmission() {
 }
 
 function processQuizz() {
-
-    //Prevent default form submission
-    event.preventDefault()
 
     //Capturing input values
     const name = document.querySelector("#name").value;
