@@ -11,3 +11,45 @@
 #empty-response {
 	display: none;
 }
+
+.wrapper  input[type=text], select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+  }
+  
+  .wrapper  button {
+	width: 100%;
+	background-color: #58985a95;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+  }
+
+  .wrapper input{
+	font-size: 24px;
+	margin: auto;
+	word-spacing: 50px;
+	padding: 20px;	
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right: 20px;
+	text-align: center;
+  }
+
+  .wrapper button:hover {
+	background-color: #45a049c3;
+  }
+  
+  .wrapper div {
+	border-radius: 5px;
+	background-color: rgba(255, 255, 255, 0.592); 
+	padding: 20px;
+  }
