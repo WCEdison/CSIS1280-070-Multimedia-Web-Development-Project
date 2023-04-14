@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hobby Hiking</title>
+    <script src="script/quizz.js"></script>
+    <link href="css/content_layout.css" rel="stylesheet" />
+    <link href="css/quizz_layout.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li> <a href="hobbies_overview.html"> Hobbies </a></li>
+                <li> <a href="quiz.html"> Quiz </a></li>
+                <li> <a href="home_index.html"> Home </a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="wrapper">
+        <h1>Find the Hobby that matches you</h1>
+        <form action="processQuizz()" id="quizzForm">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name"><br><br>
+
+            <label for="studentId">Student Id:</label><br>
+            <input type="text" id="studentId" name="studentId"><br><br>
+
+            <label for="kind">What kind of activity do you prefer?</label><br>
+            <input type="radio" id="indoors" name="kind" value="indoors">Indoors
+            <input type="radio" id="outdoors" name="kind" value="outdoors">Outdoors
+            <input type="radio" id="both" name="kind" value="both">Both<br><br>
+
+            <label for="manual">How would you grade your handcraft abilities?</label><br>
+            <select id="manual" name="manual">
+                <option value="lowDexterity">Low</option>
+                <option value="highDexterity">High</option>
+            </select><br><br>
+
+            <button id="submit-button" onclick="processQuizz()">Submit</button>
+          </form>
+
+        <div id="response">
+
+        </div>
+    
+        <div id="empty-response">
+
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+            Hobby Quiz &#9728; 2218 Dublin St &#9728; New West, V3M3B1
+        </div>
+    </footer>
+</body>
+
+</html>

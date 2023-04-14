@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.spacing {
+	margin-top: 10px;
+}
+
+#response {
+	display: none;
+}
+
+#empty-response {
+	display: none;
+}
